@@ -4,7 +4,7 @@ layout: home
 
 hero:
   name: "Time"
-  text: "Record The Time."
+  text: "记录."
   tagline: My great project tagline
   actions:
     - theme: brand
